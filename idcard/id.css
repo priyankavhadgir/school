@@ -1,0 +1,53 @@
+
+
+
+.container{
+ border: 2px solid black;
+ margin: 10px;
+ padding: 30px;
+ max-width: 540px;
+ max-height: 540px;
+ background-image: "backg.jpg";
+
+
+  }
+
+
+  .img{
+    border: 2px solid black;
+   margin: 10px;
+   
+ 
+ }
+
+
+  }
+  .about .content ul {
+  list-style: none;
+  padding: 0;
+}
+
+
+.about .content ul li {
+  margin-bottom: 15px;
+  display: flex;
+  
+}
+
+
+ hr { 
+    border: 1px solid black;
+    border-end: auto;
+    border-start: 2px;
+    margin: 10px;
+    
+  
+}
+
+.next{
+ border: 2px solid black;
+ border-width: 150;
+ border-height:150;
+ margin: 10px;
+ padding: 30px;
+  }
